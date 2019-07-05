@@ -1,0 +1,46 @@
+main {
+	font-size: 0;
+}
+
+
+.total {
+	padding-top: 100px;
+	width: 800px;
+	height: auto;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.up {
+	width: 50%;
+	height:200px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.up1 {
+	background-color: green;
+}
+
+.up2 {
+	background-color: blue;
+}
+
+.down {
+	width:33.33%;
+	height:300px;
+	display:inline-block;
+	border: 1px solid black;
+}
+
+.down1 {
+	background-color: grey;
+}
+
+.down2 {
+	background-color: black;
+}
+
+.down3 {
+	background-color: orange;
+}
